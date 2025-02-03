@@ -4,7 +4,7 @@ Are you ready to showcase your unique skills and creativity to the world? Whethe
 
 Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md) to this repo and let's showcase your work! Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
-This project, curated by @gbc_school, was inspired by Ali Spittel’s incredible community-focused approach. Together, let's celebrate creativity, individuality, and the endless possibilities within the tech world.
+This project, curated by @gbc_school, was inspired by Tolebi Baitassov’s incredible community-focused approach. Together, let's celebrate creativity, individuality, and the endless possibilities within the tech world.
 
 So dive in, explore, and get inspired! 💻✨
 
